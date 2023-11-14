@@ -11,7 +11,6 @@ const Canvas = require('canvas')
 const TinyURL = require('tinyurl');
 const emoji = require("emoji-api");
 const isUrl = require("is-url")
-const { ytMp4, ytMp3 } = require('../lib/y2mate')
 const BitlyClient = require('bitly').BitlyClient
 const canvasGif = require('canvas-gif')
 const { convertStringToNumber } = require('convert-string-to-number'); 
